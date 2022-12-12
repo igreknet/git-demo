@@ -1,2 +1,4 @@
 this is the first line
 this is the second line of text
+
+this is the fourth line for practicing git gui
