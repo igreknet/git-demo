@@ -4,7 +4,3 @@ this is the second line of text
 this is the fourth line for practicing git gui
 
 this is the sixth line for practicing git revert
-
-add one more line for git branch practicing
-
-this is amazing
