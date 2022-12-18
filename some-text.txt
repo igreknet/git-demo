@@ -8,3 +8,5 @@ this is the sixth line for practicing git revert
 this is the 8th line for practicing "conflict solving"
 
 this is the cursed 8th line
+
+just for a tag
